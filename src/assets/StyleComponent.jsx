@@ -1,0 +1,1 @@
+export  const baseStyle = "lg:w-1/2 m-3  min-h-3/4 max-h-fit flex content-start lg:p-10 py-2 justify-center flex-wrap  shadow-inner shadow-blue-800 rounded-2xl overflow-hidden"
